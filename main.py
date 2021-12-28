@@ -4,7 +4,6 @@ from telebot import types
 
 
 bot = telebot.TeleBot('TOKEN')
-flag = True
 
 
 print('[~] Бот успешно запущен | Версия: 1.0.0')
